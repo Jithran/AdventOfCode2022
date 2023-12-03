@@ -21,4 +21,9 @@ $challenges = [
         'folder' => 'day3',
         'description' => 'Help those pesky elves find the stuff in their rucksacks.',
     ],
+    4 => [
+        'title' => 'Day 4: Camp Cleanup',
+        'folder' => 'day4',
+        'description' => 'Figure out what those elves need to clean up because they are too lazy to do it themselves.',
+    ],
 ];
