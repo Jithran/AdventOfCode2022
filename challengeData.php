@@ -6,5 +6,9 @@ $config = [
 ];
 
 $challenges = [
-    
+    1 => [
+        'title' => 'Day 1: Calorie Counting',
+        'folder' => 'day1',
+        'description' => 'Calculate the calories the elves are carrying.',
+    ],
 ];

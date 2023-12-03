@@ -8,3 +8,4 @@ This is my repository for the 2022 Advent of Code. I will mainly use PHP, but I 
 </p>
 <center><img src="headers/header.webp" width="100%"> </center>
 
+- [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)
