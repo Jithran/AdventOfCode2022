@@ -9,3 +9,4 @@ This is my repository for the 2022 Advent of Code. I will mainly use PHP, but I 
 <center><img src="headers/header.webp" width="100%"> </center>
 
 - [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)
+- [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)
