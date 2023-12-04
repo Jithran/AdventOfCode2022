@@ -29,6 +29,12 @@ $challenges = [
     5 => [
         'title' => 'Day 5: Supply Stacks',
         'folder' => 'day5',
-        'description' => 'Those elves are stacking supplies all over the place and we need to figure out where they left their stuff',
+        'description' => 'Those elves are stacking supplies all over the place and we need to figure out where they left their stuff.',
     ],
+    6 => [
+        'title' => 'Day 6: Tuning Trouble',
+        'folder' => 'day6',
+        'description' => 'Help the elves tune their communication system by finding the packet markers.',
+    ],
+
 ];
